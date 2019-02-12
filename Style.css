@@ -3,7 +3,7 @@ title {
 }
 
 body{
-  background-color: yellow;
+  background-color: orange;
 
 }
 .header {
@@ -22,14 +22,14 @@ h1, h2,h2 {
 
 }
 .day-box.PREP {
-border: 2px red;
+border: 2px solid red;
 }
 .day-box.CURRENT {
-border: 2px red;
+border: 2px solid red;
 }
 
 .day-box.COMPLETED {
-border: 2px red;
+border: 2px solid red;
 }
 
 .day {
