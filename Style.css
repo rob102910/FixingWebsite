@@ -24,12 +24,14 @@ h1, h2,h2 {
 .day-box.PREP {
 border: 2px solid red;
 border-style:dashed;
+border-radius: 5px;
 padding: 5px;
 margin: 10px;
 }
 .day-box.CURRENT {
 border: 2px solid red;
 border-style:dashed;
+border-radius: 5px;
 padding: 5px;
 margin: 10px;
 }
@@ -37,6 +39,7 @@ margin: 10px;
 .day-box.COMPLETED {
 border: 2px solid red;
 border-style:dashed;
+border-radius: 5px;
 padding: 5px;
 margin: 10px;
 }
