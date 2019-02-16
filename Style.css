@@ -8,8 +8,8 @@ body{
 
 }
 .resize{
-  width=300px;
-  height:auto;
+  width:100px;
+  height:100px;
 }
 .header {
     background-color: black;
