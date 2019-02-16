@@ -1,3 +1,4 @@
+
 title {
 
 }
@@ -6,17 +7,19 @@ body{
   background-color: lightcyan;
 
 }
-
-.resize {
-    width: 300px;
-    height: auto;
+.resize{
+  width=300px;
+  height:auto;
 }
 .header {
-background-image: "Head.jpeg"
-}
+    background-color: black;
 
+}
 .person-info{
-<img class="resize" src="/img/students/student17.png"/>
+
+}
+.person_image{
+  <img class="resize" src="/img/students/student17.png"/>
 }
 
 .nav{
