@@ -6,12 +6,20 @@ body{
   background-color: lightcyan;
 
 }
+
+.resize {
+    width: 300px;
+    height: auto;
+
 .header {
+
+
+
 background-image: "Head.jpeg"
 }
 
 .person-info{
-
+<img class="resize">
 }
 
 .nav{
