@@ -1,4 +1,3 @@
-
 title {
 
 }
@@ -12,14 +11,19 @@ body{
   height:100px;
 }
 .header {
-    background-color: black;
+    background-image: url("game-of-thrones-heads.jpg");
 
 }
 .person-info{
 
 }
 .person_image{
-  <img class="resize" src="/img/students/student17.png"/>
+
+  width: 100px;
+  height: 125px;
+  position: relative;
+  left: 625px;
+  top: 175px;
 }
 
 .nav{
@@ -30,6 +34,8 @@ h1, h2,h2 {
 
 }
 .day-box.PREP {
+  position: relative;
+  top: 175px;
 border: 2px solid red;
 border-style:dashed;
 border-radius: 5px;
@@ -37,6 +43,8 @@ padding: 5px;
 margin: 10px;
 }
 .day-box.CURRENT {
+  position: relative;
+  top: 175px;
 border: 2px solid red;
 border-style:dashed;
 border-radius: 5px;
@@ -45,6 +53,8 @@ margin: 10px;
 }
 
 .day-box.COMPLETED {
+  position: relative;
+  top: 175px;
 border: 2px solid red;
 border-style:dashed;
 border-radius: 5px;
