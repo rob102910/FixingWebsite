@@ -11,7 +11,7 @@ body{
   height:100px;
 }
 .header {
-    position: fixed;
+    position: relative;
     background-image: url("game-of-thrones-heads.jpg");
     height: 300px;
 }
@@ -34,7 +34,7 @@ body{
 }
 
 .nav{
-  position: fixed;
+  position: relative;
   top: 150px;
 
 }
