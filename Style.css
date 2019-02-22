@@ -14,8 +14,7 @@ body{
     background-image: url("game-of-thrones-heads.jpg");
 }
 .partners{
-  position: relative;
-  left: 200px;
+  float: right;
 }
 .person_info{
   position: relative;
