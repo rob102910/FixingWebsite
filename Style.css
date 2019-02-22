@@ -16,7 +16,7 @@ body{
 .partners{
   float: right;
 }
-.person_info{
+.person_info:first-of-type{
   position: relative;
   top: 275px;
 }
