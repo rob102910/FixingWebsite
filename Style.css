@@ -11,7 +11,7 @@ body{
   height:100px;
 }
 .header {
-    background-image: url("game-of-thrones-heads.jpeg");
+    background-image: url("game-of-thrones-heads.jpg");
 
 }
 .person-info{
@@ -35,12 +35,9 @@ h1, h2,h2 {
 }
 .day-box.PREP {
   position: relative;
-  top: 175px;
-border: 2px solid red;
-border-style:dashed;
-border-radius: 5px;
-padding: 5px;
-margin: 10px;
+  border: 10px solid transparent;
+  padding: 15px;
+  -webkit-border-image: url(border.png) 20% round; 
 }
 .day-box.CURRENT {
   position: relative;
