@@ -12,6 +12,7 @@ body{
 }
 .header {
     background-image: url("game-of-thrones-heads.jpg");
+    height: 300px;
 }
 .partners{
 
