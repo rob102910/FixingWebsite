@@ -14,7 +14,7 @@ body{
     background-image: url("game-of-thrones-heads.jpg");
 }
 .partners{
-  
+
 }
 .person_info:first-of-type{
   position: relative;
@@ -28,7 +28,7 @@ body{
   top: 175px;
 }
 
-.person_info:nth-child(2){
+.person_info:nth-of-type(2){
   float: right;
 }
 
