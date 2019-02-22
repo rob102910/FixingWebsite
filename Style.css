@@ -17,7 +17,7 @@ body{
 
 }
 .person_info:first-of-type{
-  position: relative;
+  float:left;
   top: 275px;
 }
 
