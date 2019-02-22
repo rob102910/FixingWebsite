@@ -20,7 +20,7 @@ body{
 }
 .person_info:first-of-type{
   float:left;
-  text-decoration-color: White;
+  color: White;
 }
 
 .person_image:first-of-type{
@@ -33,11 +33,13 @@ body{
 .person_info:nth-of-type(2){
   float: right;
   text-decoration-color: White;
+  color: White;
 }
 
 .nav{
   position: relative;
   top: 250px;
+  color: White;
 
 }
 
