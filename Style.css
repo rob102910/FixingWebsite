@@ -37,7 +37,7 @@ h1, h2,h2 {
   position: relative;
   border: 10px solid transparent;
   padding: 15px;
-  -webkit-border-image: url("gold.jpg") 20% round; 
+  -webkit-border-image: url("gold.jpg") 100% round; 
 }
 .day-box.CURRENT {
   position: relative;
