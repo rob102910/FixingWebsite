@@ -52,21 +52,19 @@ h1, h2,h2 {
 .day-box.CURRENT {
   position: relative;
   top: 175px;
-border: 2px solid red;
-border-style:dashed;
-border-radius: 5px;
-padding: 5px;
-margin: 10px;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url("gold.jpg") 30% round;
+  border-image-repeat: round;
 }
 
 .day-box.COMPLETED {
   position: relative;
   top: 175px;
-border: 2px solid red;
-border-style:dashed;
-border-radius: 5px;
-padding: 5px;
-margin: 10px;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url("gold.jpg") 30% round;
+  border-image-repeat: round;
 }
 
 .day {
