@@ -12,15 +12,17 @@ body{
 }
 .header {
     background-image: url("game-of-thrones-heads.jpg");
-
+}
+.partner{
+  position: relative;
+  top: 190px;
 }
 .person_info{
   position: relative;
   top: 200px;
-
 }
-.person_image{
 
+.person_image{
   width: 100px;
   height: 125px;
   position: relative;
