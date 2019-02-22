@@ -15,6 +15,7 @@ body{
 
 }
 .person-info{
+  top: 75px;
 
 }
 .person_image{
@@ -27,6 +28,7 @@ body{
 }
 
 .nav{
+  top: 75px;
 
 }
 
@@ -35,6 +37,7 @@ h1, h2,h2 {
 }
 .day-box.PREP {
   position: relative;
+  top: 175px;
   border: 10px solid transparent;
   padding: 15px;
   border-image: url("gold.jpg") 30% round;
