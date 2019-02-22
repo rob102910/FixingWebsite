@@ -22,11 +22,10 @@ body{
   top: 275px;
 }
 
-.person_image{
+.person_image:first-of-type{
   width: 100px;
   height: 125px;
   position: relative;
-  left: 625px;
   top: 175px;
 }
 
