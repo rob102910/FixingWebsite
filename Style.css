@@ -19,7 +19,6 @@ body{
 .person_info:first-of-type{
   position: relative;
   top: 275px;
-  padding: 200px;
 }
 
 .person_image:first-of-type{
@@ -46,7 +45,8 @@ h1, h2,h2 {
   position: relative;
   top: 175px;
   border: 10px solid transparent;
-  padding: 25px;
+  padding: 15px;
+  margin: 25px;
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
 }
@@ -54,7 +54,8 @@ h1, h2,h2 {
   position: relative;
   top: 175px;
   border: 10px solid transparent;
-  padding: 25px;
+  padding: 15px;
+    margin: 25px;
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
 }
@@ -63,7 +64,8 @@ h1, h2,h2 {
   position: relative;
   top: 175px;
   border: 10px solid transparent;
-  padding: 25px;
+  padding: 15px;
+  margin: 25px;
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
 }
