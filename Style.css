@@ -4,6 +4,7 @@ title {
 
 body{
   background-image: url("gb.jpg");
+  background-repeat: round;
 
 }
 .resize{
