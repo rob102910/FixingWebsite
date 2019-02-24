@@ -16,7 +16,7 @@ body{
 .header {
     position: relative;
     background-image: url("head.jpg");
-    height: 500px;
+    height: 600px;
     background-size: 100%;
 }
 .partners{
@@ -25,7 +25,7 @@ body{
 .person_info{
   position:relative;
   color: White;
-  top:310px;
+  top:600px;
   left: 625px;
 }
 
