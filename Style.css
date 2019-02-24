@@ -55,6 +55,7 @@ h1, h2,h2 {
   margin: 25px;
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
+  color: White;
 }
 .day-box.CURRENT {
   position: relative;
@@ -64,6 +65,7 @@ h1, h2,h2 {
     margin: 25px;
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
+  color: White;
 }
 
 .day-box.COMPLETED {
@@ -74,6 +76,7 @@ h1, h2,h2 {
   margin: 25px;
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
+  color: White;
 }
 
 .day {
