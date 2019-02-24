@@ -77,7 +77,7 @@ body{
   border-image-repeat: round;
   color: White;
 }
-a:active{
+a:link{
   color:red;
 }
 a:visited {
