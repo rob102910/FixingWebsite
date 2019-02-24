@@ -76,8 +76,11 @@ body{
   border-image-repeat: round;
   color: White;
 }
+a:active{
+  color:red;
+}
 a:visited {
-  color: red;
+  color: darkred;
 }
 
 .day {
