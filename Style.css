@@ -6,7 +6,7 @@ body{
   background-image: url("gb2.png");
   background-size: 100%;
   color: white;
-  text-shadow:  2px 2px 2px darkgrey;
+  text-shadow:  2px 2px 2px darkred;
 
 }
 .resize{
@@ -16,7 +16,7 @@ body{
 .header {
     position: relative;
     background-image: url("head.jpg");
-    height: 550px;
+    height: 530px;
     background-size: 100%;
 }
 .partners{
