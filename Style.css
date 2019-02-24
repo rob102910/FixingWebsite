@@ -1,4 +1,5 @@
 title {
+  color: White;
 
 }
 
@@ -39,7 +40,8 @@ body{
 
 .nav{
   position: relative;
-  top: 250px;
+  top: 350px;
+  left:0px;
   color: White;
 
 }
