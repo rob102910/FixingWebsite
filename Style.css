@@ -6,6 +6,7 @@ body{
   background-image: url("gb2.png");
   background-size: 100%;
   color: white;
+  text-shadow:  2px 2px 4px #000000;
 
 }
 .resize{
@@ -20,16 +21,16 @@ body{
 .partners{
 
 }
-.person_info:first-of-type{
-  float:left;
+.person_info{
+  position:relative;
   color: White;
+  top:310px;
+  height: 625px;
 }
 
 .person_image:first-of-type{
   width: 100px;
   height: 150px;
-  float:left;
-  top: 175px;
 }
 
 .person_info:nth-of-type(2){
@@ -40,9 +41,9 @@ body{
 
 .nav{
   position: relative;
-  top: 370px;
-  left:-125px;
+  top: 350px;
   color: White;
+  background-color: gold;
 
 }
 
