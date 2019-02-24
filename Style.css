@@ -1,4 +1,4 @@
-title {
+h1 {
   color: White;
 }
 
@@ -40,14 +40,11 @@ body{
 .nav{
   position: relative;
   top: 350px;
-  left:0px;
+  text-align: left;
   color: White;
 
 }
 
-h1, h2,h2 {
-
-}
 .day-box.PREP {
   position: relative;
   top: 175px;
