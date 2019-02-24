@@ -42,7 +42,7 @@ body{
 
 .nav{
   position: relative;
-  top: 350px;
+  top: 450px;
   color: White;
   background-color: gold;
 
@@ -52,7 +52,7 @@ body{
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
-  top: 175px;
+  top: 275px;
   border: 10px solid transparent;
   padding: 15px;
   margin: 25px;
@@ -64,7 +64,7 @@ body{
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
-  top: 175px;
+  top: 275px;
   border: 10px solid transparent;
   padding: 15px;
     margin: 25px;
@@ -77,7 +77,7 @@ body{
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
-  top: 175px;
+  top: 275px;
   border: 10px solid transparent;
   padding: 15px;
   margin: 25px;
