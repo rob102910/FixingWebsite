@@ -16,7 +16,7 @@ body{
 .header {
     position: relative;
     background-image: url("head.jpg");
-    height: 300px;
+    height: 400px;
     background-size: 100%;
 }
 .partners{
