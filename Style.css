@@ -2,7 +2,7 @@
 
 h1 {
   color: White;
-  font-family: "Cinzel Decorative",fantasy;
+  font-family: "Cinzel Decorative",cursive;
 }
 
 body{
@@ -28,7 +28,7 @@ body{
 .partners{
 
 }
-.person_info{
+.person_info:first-of-type{
   position:relative;
   color: White;
   top:600px;
