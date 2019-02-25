@@ -112,6 +112,10 @@ display:block;
 position:relative;
 padding-left:120px; /* adjust if necessary */
 }
+format{
+  position: relative;
+  top:400px;
+}
 .day {
 
 }
