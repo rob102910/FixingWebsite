@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
+
 h1 {
   color: White;
-
+  font-family: "Cinzel Decorative",fantasy;
 }
 
 body{
@@ -98,12 +100,13 @@ a:visited {
 
 table{
   position: relative;
-  top:200px;
+  top:400px;
 }
 svg {
   position: relative;
-  top:200px;
+  top:400px;
 }
+
 .day {
 
 }
