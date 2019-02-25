@@ -112,10 +112,7 @@ display:block;
 position:relative;
 padding-left:120px; /* adjust if necessary */
 }
-format{
-  position: relative;
-  top:400px;
-}
+
 .day {
 
 }
@@ -136,7 +133,6 @@ format{
 
 }
 .account_form{
- top:300px;
-
-
+  position: relative;
+  top:400px;
 }
