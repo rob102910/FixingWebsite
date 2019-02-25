@@ -1,5 +1,6 @@
 h1 {
   color: White;
+
 }
 
 body{
@@ -95,6 +96,14 @@ a:visited {
   color: darkred;
 }
 
+table{
+  position: relative;
+  top:200px;
+}
+svg {
+  position: relative;
+  top:200px;
+}
 .day {
 
 }
