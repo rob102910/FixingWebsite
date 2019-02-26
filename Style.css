@@ -138,10 +138,10 @@ h1:after {
   clear: both;
 }
 a:link{
-  color:red;
+  color:yellow;
 }
 a:visited {
-  color: darkred;
+  color: orange;
 }
 
 table{
