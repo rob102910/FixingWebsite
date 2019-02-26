@@ -132,7 +132,8 @@ svg {
 label {
 display:block;
 position:relative;
-padding-left:80px; /* adjust if necessary */
+left: -40px;
+padding-left:120px; /* adjust if necessary */
 }
 
 .day {
