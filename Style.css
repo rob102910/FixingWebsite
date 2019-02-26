@@ -70,11 +70,11 @@ body{
 
 }
 .nav:after {
-  z-index: 1;
   position: absolute;
   left:0;
   top:20px;
   content: url("nightking.png");
+  z-index: 1;
 }
 
 h1:after {
