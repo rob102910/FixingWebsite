@@ -160,7 +160,8 @@ h1:after {
 .day-box.COMPLETED:nth-child(2n):after{
   content:url("b.jpg");
   position: absolute;
-  right:-150px;
+  right:-250px;
+  top:250px;
 }
 a:link{
   color:yellow;
