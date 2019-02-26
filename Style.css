@@ -173,11 +173,11 @@ a:visited {
 
 table{
   position: relative;
-  top:420px;
+  top:450px;
 }
 svg {
   position: relative;
-  top:420px;
+  top:450px;
 }
 label {
 display:block;
@@ -186,43 +186,35 @@ left: -110px;
 padding-left:120px; /* adjust if necessary */
 }
 
-.day {
 
-}
-
-.reading-box {
-
-}
-
-.prep-box{
-
-}
 
 .assignment_form{
   position: relative;
   top:450px;
 }
 
-.lab-box {
 
-}
 .account_form{
   position: relative;
-  top:420px;
+  top:450px;
 }
 div+input {
   position: relative;
-  top:420px;
+  top:450px;
 }
 .login{
   position: relative;
-  top:420px;
+  top:450px;
 }
 .prompt{
   position: relative;
-  top:420px;
+  top:450px;
 }
 .view_text{
   position: relative;
-  top:420px;
+  top:450px;
+}
+assignment_title {
+  position: relative;
+  top:420
 }
