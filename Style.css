@@ -102,7 +102,7 @@ h1:after {
 .day-box.PREP:before {
   content: url("c.jpeg");
   position: absolute;
-  right: 0;
+  left: 0;
 }
 .day-box.CURRENT {
   width:75%;
