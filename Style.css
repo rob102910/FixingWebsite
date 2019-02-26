@@ -15,8 +15,8 @@ body{
 }
 
 .sound{
-  content: url("audio.png")
-  height:75px;
+  content: url("audio.png");
+  height: 75px;
   width:75px;
 }
 .resize{
