@@ -79,6 +79,7 @@ body{
 }
 
 .day-box.PREP {
+  width:75%;
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
@@ -103,6 +104,11 @@ body{
   color: White;
 }
 
+.day-box.CURRENT.even{
+  width:75%;
+  align-content: flex-end;
+
+}
 .day-box.COMPLETED {
   background-image: url("fire.gif");
   background-size:100%;
