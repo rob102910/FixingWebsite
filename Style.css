@@ -121,6 +121,11 @@ body{
 }
 .day-box.COMPLETED:nth-child(2n+1){
   float:right;
+  clear: both;
+}
+.day-box.COMPLETED:nth-child(2n){
+  float:left;
+  clear: both;
 }
 a:link{
   color:red;
