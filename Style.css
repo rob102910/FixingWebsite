@@ -60,9 +60,9 @@ body{
 
 }
 .nav:before {
-  content: url("rdragon.png");
   width:300px;
   height:300px;
+  content: url("rdragon.png");
 }
 
 .day-box.PREP {
