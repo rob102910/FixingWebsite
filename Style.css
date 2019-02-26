@@ -68,7 +68,7 @@ body{
   z-index: 1;
 
 }
-.nav:before {
+.nav:after {
   width:300px;
   height:300px;
   content: url("rdragon.png");
