@@ -70,6 +70,7 @@ body{
 
 }
 .nav:after {
+  z-index: 2;
   position: absolute;
   left:0;
   content: url("nightking.png");
