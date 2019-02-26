@@ -64,6 +64,7 @@ body{
   top: 275px;
   color: White;
   background-color: gold;
+  z-index: 1;
 
 }
 .nav:before {
