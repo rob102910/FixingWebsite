@@ -99,6 +99,11 @@ h1:after {
   float:right;
   clear: both;
 }
+.day-box.PREP:before {
+  width:20%;
+  content: url("c.jpeg");
+  float:left;
+}
 .day-box.CURRENT {
   width:75%;
   background-image: url("fire.gif");
@@ -114,7 +119,11 @@ h1:after {
   float:left;
   clear: both;
 }
-
+.day-box.CURRENT:after {
+  width:20%;
+  content: url("p.jpg");
+  float:right;
+}
 
 .day-box.COMPLETED {
   width:75%;
@@ -131,11 +140,11 @@ h1:after {
 }
 .day-box.COMPLETED:nth-child(2n+1){
   float:right;
-  clear: both;
+  clear: left;
 }
 .day-box.COMPLETED:nth-child(2n){
   float:left;
-  clear: both;
+  clear: left;
 }
 a:link{
   color:yellow;
