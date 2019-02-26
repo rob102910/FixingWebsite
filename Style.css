@@ -90,6 +90,8 @@ body{
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
   color: White;
+  float:right;
+  clear: both;
 }
 .day-box.CURRENT {
   width:75%;
@@ -103,7 +105,7 @@ body{
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
   color: White;
-  float:right;
+  float:left;
   clear: both;
 }
 
