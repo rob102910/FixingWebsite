@@ -57,10 +57,12 @@ body{
   top: 400px;
   color: White;
   background-color: gold;
+
+}
+nav::before{
   content: url("rdragon.png");
   width:300px;
   height:300px;
-
 }
 
 .day-box.PREP {
