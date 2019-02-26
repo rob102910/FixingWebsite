@@ -58,7 +58,7 @@ body{
 
 .nav{
   position: relative;
-  top: 400px;
+  top: 300px;
   color: White;
   background-color: gold;
 
@@ -152,5 +152,6 @@ padding-left:120px; /* adjust if necessary */
   top:420px;
 }
 input {
-  size: "200"
+  size: "200";
+
 }
