@@ -158,8 +158,9 @@ h1:after {
   clear: left;
 }
 .day-box.COMPLETED:nth-child(2n):after{
-  float:right;
   content:("b.jpg")
+  position: absolute;
+  right:50px;
 }
 a:link{
   color:yellow;
