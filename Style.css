@@ -106,6 +106,7 @@ body{
 
 
 .day-box.COMPLETED {
+  width:75%;
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
@@ -117,8 +118,7 @@ body{
   border-image-repeat: round;
   color: White;
 }
-.day-box.COMPLETED.even{
-  width:75%;
+.day-box.COMPLETED:nth-child(2n+1){
   align-content: flex-end;
 }
 a:link{
