@@ -126,8 +126,8 @@ h1:after {
 .day-box.CURRENT:after {
   content: url("john.jpg");
   position: absolute;
-  right: -200px;
-  top:-50px;
+  right: -275px;
+  top:-34px;
 }
 
 .day-box.COMPLETED {
