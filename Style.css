@@ -104,11 +104,7 @@ body{
   color: White;
 }
 
-.day-box.CURRENT.even{
-  width:75%;
-  align-content: flex-end;
 
-}
 .day-box.COMPLETED {
   background-image: url("fire.gif");
   background-size:100%;
@@ -120,6 +116,10 @@ body{
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
   color: White;
+}
+.day-box.COMPLETED.even{
+  width:75%;
+  align-content: flex-end;
 }
 a:link{
   color:red;
