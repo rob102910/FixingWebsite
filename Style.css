@@ -147,8 +147,8 @@ h1:after {
   float:right;
   clear: left;
 }
-.day-box.COMPLETED:before{
-  content:("b.jpg")
+.day-box.COMPLETED:nth-child(2n+1):before{
+  content: url("b.jpg");
   position: absolute;
   left: -250px;
   top:-15px;
@@ -157,8 +157,8 @@ h1:after {
   float:left;
   clear: left;
 }
-.day-box.COMPLETED:after{
-  content:("b.jpg")
+.day-box.COMPLETED:nth-child(2n):after{
+  content:url("b.jpg");
   position: absolute;
   right:-150px;
 }
