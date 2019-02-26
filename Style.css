@@ -80,6 +80,7 @@ h1:after {
   z-index: 1;
   position: absolute;
   right:0;
+  top:20px;
   content: url("rdragon.png");
 }
 
