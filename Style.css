@@ -24,7 +24,7 @@ body{
   width:50px;
   position: relative;
   left:25px;
-  z-index: 2;
+  z-index: 3;
 }
 .resize{
   width:100px;
@@ -51,14 +51,14 @@ body{
 .person_image:first-of-type{
   width: 100px;
   height: 150px;
-  z-index: 2;
+  z-index: 3;
 }
 
 .person_info:nth-of-type(2){
   float: right;
   text-decoration-color: White;
   color: White;
-  z-index: 2;
+  z-index: 3;
 }
 
 .nav{
