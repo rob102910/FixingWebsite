@@ -62,11 +62,11 @@ body{
 }
 
 .nav{
+  z-index: 1;
   position: relative;
   top: 310px;
   color: White;
   background-color: darkred;
-  z-index: 1;
 
 }
 .nav:after {
@@ -74,7 +74,6 @@ body{
   left:0;
   top:20px;
   content: url("nightking.png");
-  z-index: 1;
 }
 
 h1:after {
