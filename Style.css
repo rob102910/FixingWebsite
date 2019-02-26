@@ -13,8 +13,9 @@ body{
   font-family: "Cinzel Decorative",cursive;
 
 }
+
 .sound{
-  background-image: url("audio.png")
+  image: url("audio.png")
 }
 .resize{
   width:100px;
