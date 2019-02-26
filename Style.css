@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
 
 h1 {
+  opacity: .99;
   color: White;
   position: relative;
   top:25px;
