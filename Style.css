@@ -2,6 +2,7 @@
 
 h1 {
   color: White;
+  position: relative;
   font-family: "Cinzel Decorative",cursive;
   z-index: 2;
 }
@@ -61,7 +62,7 @@ body{
 
 .nav{
   position: relative;
-  top: 295px;
+  top: 310px;
   color: White;
   background-color: gold;
   z-index: 1;
