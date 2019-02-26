@@ -74,7 +74,7 @@ body{
   left:0;
   content: url("nightking.png");
 }
-.nav:after {
+.nav:after:after {
   position: absolute;
   right:0;
   z-index: 1;
