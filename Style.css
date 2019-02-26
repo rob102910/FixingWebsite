@@ -103,9 +103,10 @@ h1:after {
 .day-box.PREP:before {
   z-index: 1;
   content: url("c.jpeg");
+  width:25%;
   position: absolute;
   left: -250px;
-  top:-25px;
+  top:-15px;
 }
 .day-box.CURRENT {
   width:75%;
@@ -125,7 +126,8 @@ h1:after {
 .day-box.CURRENT:after {
   content: url("john.jpg");
   position: absolute;
-  right: 0px;
+  right: 100px;
+  top:-100px;
 }
 
 .day-box.COMPLETED {
@@ -149,7 +151,7 @@ h1:after {
   content:("b.jpg")
   position: absolute;
   left: -250px;
-  top:-25px;
+  top:-15px;
 }
 .day-box.COMPLETED:nth-child(2n){
   float:left;
