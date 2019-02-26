@@ -120,8 +120,7 @@ body{
   color: White;
 }
 .day-box.COMPLETED:nth-child(2n+1){
-  position: absolute;
-  right: 0;
+  float:right;
 }
 a:link{
   color:red;
