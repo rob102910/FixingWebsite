@@ -101,9 +101,8 @@ h1:after {
 }
 .day-box.PREP:before {
   content: url("c.jpeg");
-  width:100px;
-  height:100px;
-  float:left;
+  position: absolute;
+  right: 0;
 }
 .day-box.CURRENT {
   width:75%;
@@ -143,7 +142,15 @@ h1:after {
   float:right;
   clear: left;
 }
+.day-box.COMPLETED:nth-child(2n+1):before{
+  float:right;
+  clear: left;
+}
 .day-box.COMPLETED:nth-child(2n){
+  float:left;
+  clear: left;
+}
+.day-box.COMPLETED:nth-child(2n):after{
   float:left;
   clear: left;
 }
