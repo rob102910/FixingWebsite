@@ -3,6 +3,7 @@
 h1 {
   color: White;
   position: relative;
+  top:25px;
   font-family: "Cinzel Decorative",cursive;
   z-index: 2;
 }
