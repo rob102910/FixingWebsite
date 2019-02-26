@@ -7,6 +7,9 @@ h1 {
   font-family: "Cinzel Decorative",cursive;
   z-index: 2;
 }
+h2,h3,h4 {
+  z-index: 4;
+}
 
 body{
   background-image: url("gb2.png");
@@ -73,7 +76,7 @@ body{
   opacity: .99;
   position: absolute;
   left:0;
-  top:40px;
+  top:60px;
   content: url("nightking.png");
 }
 
@@ -81,6 +84,7 @@ h1:after {
   z-index: 2;
   position: absolute;
   right:0;
+  top:10px;
   content: url("rdragon.png");
 }
 
@@ -90,7 +94,7 @@ h1:after {
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
-  top: 350px;
+  top: 375px;
   border: 10px solid transparent;
   padding: 15px;
   margin: 25px;
@@ -113,7 +117,7 @@ h1:after {
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
-  top: 350px;
+  top: 375px;
   border: 10px solid transparent;
   padding: 15px;
     margin: 25px;
@@ -135,7 +139,7 @@ h1:after {
   background-image: url("fire.gif");
   background-size:100%;
   position: relative;
-  top: 350px;
+  top: 375px;
   border: 10px solid transparent;
   padding: 15px;
   margin: 25px;
