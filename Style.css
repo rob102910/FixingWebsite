@@ -104,7 +104,8 @@ h1:after {
   z-index: 1;
   content: url("c.jpeg");
   position: absolute;
-  left: -150px;
+  left: -250px;
+  top:-25px;
 }
 .day-box.CURRENT {
   width:75%;
@@ -122,9 +123,9 @@ h1:after {
   clear: both;
 }
 .day-box.CURRENT:after {
-  width:20%;
-  content: url("p.jpg");
-  float:right;
+  content: url("john.jpg");
+  position: absolute;
+  right: 0px;
 }
 
 .day-box.COMPLETED {
@@ -146,6 +147,9 @@ h1:after {
 }
 .day-box.COMPLETED:nth-child(2n+1):before{
   content:("b.jpg")
+  position: absolute;
+  left: -250px;
+  top:-25px;
 }
 .day-box.COMPLETED:nth-child(2n){
   float:left;
