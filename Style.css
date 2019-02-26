@@ -158,14 +158,11 @@ padding-left:120px; /* adjust if necessary */
   position: relative;
   top:420px;
 }
-input {
-  
-}
-.login{
+div+input {
   position: relative;
   top:420px;
 }
-.submit {
+.login{
   position: relative;
   top:420px;
 }
