@@ -198,8 +198,9 @@ padding-left:120px; /* adjust if necessary */
 
 }
 
-.assignment_link{
-
+.assignment_form{
+  position: relative;
+  top:420px;
 }
 
 .lab-box {
