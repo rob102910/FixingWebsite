@@ -35,7 +35,7 @@ body{
     background-image: url("head.jpg");
     height: 530px;
     background-size: 100%;
-    z-index: 2;
+    z-index: 3;
 }
 .partners{
 
@@ -45,7 +45,7 @@ body{
   color: White;
   top:600px;
   left: 625px;
-  z-index: 2;
+  z-index: 3;
 }
 
 .person_image:first-of-type{
