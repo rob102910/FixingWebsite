@@ -103,6 +103,8 @@ body{
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
   color: White;
+  float:right;
+  clear: both;
 }
 
 
@@ -120,11 +122,11 @@ body{
   color: White;
 }
 .day-box.COMPLETED:nth-child(2n+1){
-  float:left;
+  float:right;
   clear: both;
 }
 .day-box.COMPLETED:nth-child(2n){
-  float:right;
+  float:left;
   clear: both;
 }
 a:link{
