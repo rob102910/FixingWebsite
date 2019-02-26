@@ -73,7 +73,7 @@ body{
   opacity: .99;
   position: absolute;
   left:0;
-  top:20px;
+  top:40px;
   content: url("nightking.png");
 }
 
@@ -81,7 +81,6 @@ h1:after {
   z-index: 2;
   position: absolute;
   right:0;
-  top:25;
   content: url("rdragon.png");
 }
 
