@@ -64,8 +64,8 @@ body{
 .nav{
   position: relative;
   top: 310px;
-  color: darkred;
-  background-color: White;
+  color: White;
+  background-color: darkred;
   z-index: 2;
 
 }
@@ -160,7 +160,7 @@ h1:after {
   content:url("b.jpg");
   position: absolute;
   right:-250px;
-  
+
 }
 a:link{
   color:yellow;
