@@ -160,7 +160,7 @@ h1:after {
   content:url("b.jpg");
   position: absolute;
   right:-250px;
-  top:450px;
+  top:350px;
 }
 a:link{
   color:yellow;
