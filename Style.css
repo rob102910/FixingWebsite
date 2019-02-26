@@ -20,7 +20,7 @@ body{
   width:50px;
   position: relative;
   left:25px;
-  z-index: 10:
+  z-index: 2:
 }
 .resize{
   width:100px;
@@ -40,20 +40,20 @@ body{
   color: White;
   top:600px;
   left: 625px;
-  z-index: 10:
+  z-index: 2:
 }
 
 .person_image:first-of-type{
   width: 100px;
   height: 150px;
-  z-index: 10:
+  z-index: 2:
 }
 
 .person_info:nth-of-type(2){
   float: right;
   text-decoration-color: White;
   color: White;
-  z-index: 10:
+  z-index: 2:
 }
 
 .nav{
